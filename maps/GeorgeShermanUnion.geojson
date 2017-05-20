@@ -11,7 +11,8 @@
     "geometry": {"type": "Point", "coordinates": [ -71.115922, 42.352333]},
 	"properties": {	 
 	"name": "BU housing",
-	"marker-symbol": "lodging"
+	"marker-symbol": "lodging",
+	"marker-color": "#00f"
 		}
     },
     { "type": "Feature",
