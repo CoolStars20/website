@@ -10,9 +10,9 @@
      { "type": "Feature",
     "geometry": {"type": "Point", "coordinates": [ -71.115922, 42.352333]},
 	"properties": {	 
-	"name": "BU housing"
+	"name": "BU housing",
 	"marker-symbol": "lodging",
-	"marker-color": "#00cc00",
+	"marker-color": "#00cc00"
 	}
     },
     { "type": "Feature",
@@ -22,7 +22,7 @@
 	"marker-symbol": "lodging",
 	"marker-color": "#0000cc"
 	}
-    },
+    }
   
   ]
  }
