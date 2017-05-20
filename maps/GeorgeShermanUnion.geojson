@@ -12,7 +12,7 @@
 	"properties": {	 
 	"name": "BU housing",
 	"marker-symbol": "lodging",
-	"marker-color": "#0f0"
+	"marker-color": "#0a0"
 		}
     },
     { "type": "Feature",
