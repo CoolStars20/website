@@ -3,7 +3,8 @@
     { "type": "Feature",
     "geometry": {"type": "Point", "coordinates": [ -71.108828, 42.350858]},
 	"properties": {	 
-	"name": "George Sherman Union"
+	"name": "George Sherman Union",
+	"marker-size": "large"
 	}
     },
      { "type": "Feature",
