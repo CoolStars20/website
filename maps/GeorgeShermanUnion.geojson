@@ -1,5 +1,5 @@
   { "type": "Feature",
-    "geometry": {"type": "Point", "coordinates": [42.350900862, -71.10926628]},
+    "geometry": {"type": "Point", "coordinates": [ -71.10926628, 42.350900862,]},
 	"properties": {	 
 	"name": "George Sherman Union"
 	}
